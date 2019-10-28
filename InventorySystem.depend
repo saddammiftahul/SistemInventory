@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1570510187 source:c:\users\d2k\desktop\inventorysystem\main.cpp
+	<iostream>
+	<vector>
+	<string>
+
+1571111695 source:e:\game programming\inventorysystem\main.cpp
+	<iostream>
+	<vector>
+	<string>
+
+1571111696 source:e:\kuliah\smstr 5\game programming\inventorysystem\main.cpp
+	<iostream>
+	<vector>
+	<string>
+
